@@ -1,0 +1,23 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+      {
+        "label": "Build ObstacleAssaultEditor",
+        "type": "shell",
+        "command": "C:\\Unreal Engine\\UE_5.4\\Engine\\Build\\BatchFiles\\Build.bat",
+        "args": [
+          "ObstacleAssaultEditor",
+          "Win64",
+          "Development",
+          "${workspaceFolder}\\ObstacleAssault.uproject",
+          "-waitmutex"
+        ],
+        "group": {
+          "kind": "build",
+          "isDefault": true
+        },
+        "problemMatcher": []
+      }
+    ]
+  }
+  

@@ -1,13 +1,13 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\ramea\\github\\obstacleassault\\obstacleassault\\source\\obstacleassault\\movingplatform.cpp",
+        "Source": "c:\\users\\ramea\\projects\\obstacleassault\\obstacleassault\\source\\obstacleassault\\movingplatform.cpp",
         "ProvidedModule": "",
-        "PCH": "c:\\users\\ramea\\github\\obstacleassault\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassaulteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
+        "PCH": "c:\\users\\ramea\\projects\\obstacleassault\\obstacleassault\\intermediate\\build\\win64\\x64\\obstacleassaulteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.inclorderoldest.h.pch",
         "Includes": [
-            "c:\\users\\ramea\\github\\obstacleassault\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
-            "c:\\users\\ramea\\github\\obstacleassault\\obstacleassault\\source\\obstacleassault\\movingplatform.h",
-            "c:\\users\\ramea\\github\\obstacleassault\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\movingplatform.generated.h"
+            "c:\\users\\ramea\\projects\\obstacleassault\\obstacleassault\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\obstacleassault\\definitions.obstacleassault.h",
+            "c:\\users\\ramea\\projects\\obstacleassault\\obstacleassault\\source\\obstacleassault\\movingplatform.h",
+            "c:\\users\\ramea\\projects\\obstacleassault\\obstacleassault\\intermediate\\build\\win64\\unrealeditor\\inc\\obstacleassault\\uht\\movingplatform.generated.h"
         ],
         "ImportedModules": [],
         "ImportedHeaderUnits": []
