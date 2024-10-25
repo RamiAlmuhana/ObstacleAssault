@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\ramea\\projects\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
-		"C:\\Users\\ramea\\projects\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
-		"C:\\Users\\ramea\\projects\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
+		"C:\\Users\\ramea\\projects\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault\\ObstacleAssault.Build.cs",
+		"C:\\Users\\ramea\\projects\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssault.Target.cs",
+		"C:\\Users\\ramea\\projects\\ObstacleAssault\\ObstacleAssault\\ObstacleAssault\\Source\\ObstacleAssaultEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
